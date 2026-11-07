@@ -26,3 +26,5 @@ Type help, time, date, scan, fullscreen, camera. Open palm triggers a scan; pinc
 
 ## License
 MIT. See LICENSE.
+
+Deployment verification trigger: GitHub Pages workflow re-run after Pages source was enabled.
